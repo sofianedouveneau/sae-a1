@@ -1,3 +1,6 @@
 [submodule "Saison-Balneaire-Tri"]
 	path = Saison-Balneaire-Tri
 	url = https://github.com/sofianedouveneau/Saison-Balneaire_Tri
+[submodule "mandelbrot-manipulation"]
+	path = mandelbrot-manipulation
+	url = https://github.com/sofianedouveneau/Mandelbrot_manipulation-des-nombres-complexes
